@@ -1,0 +1,9 @@
+PL/SQL programming	1	PLSQL_Exercises	Exercise 1: Control Structures
+PL/SQL programming	2	PLSQL_Exercises	Exercise 3: Stored Procedures
+TDD using JUnit5 and Mockito	1	1. JUnit_Basic Testing Exercises	Exercise 1: Setting Up JUnit
+TDD using JUnit5 and Mockito	2	1. JUnit_Basic Testing Exercises	Exercise 3: Assertions in JUnit
+TDD using JUnit5 and Mockito	3	1. JUnit_Basic Testing Exercises	Exercise 4: Arrange-Act-Assert (AAA) Pattern, Test Fixtures, Setup and
+			Teardown Methods in JUnit
+TDD using JUnit5 and Mockito	4	3. Mockito exercises	Exercise 1: Mocking and Stubbing
+TDD using JUnit5 and Mockito	5	3. Mockito exercises	Exercise 2: Verifying Interactions
+SLF4J logging framework	1	6. SL4J Logging exercises	Exercise 1: Logging Error Messages and Warning Levels

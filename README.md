@@ -24,9 +24,10 @@ This repository tracks my journey through the Cognizant Deep Skilling Assessment
 
 | Week | Status | Topics Covered | Date |
 |------|--------|----------------|------|
-| Week 1 | - | *Coming Soon* | - |
-| Week 2 | - | *Coming Soon* | - |
-| Week 3 | - | *Coming Soon* | - |
+| Week 1 | - | *Done* | - |
+| Week 2 | - | *Done* | - |
+| Week 3 | - | *Done* | - |
+| Week 4 | - | *In Progress ..* | - |
 
 ## 🚀 Getting Started
 

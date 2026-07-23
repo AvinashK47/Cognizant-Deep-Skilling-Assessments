@@ -1,0 +1,23 @@
+# Maven build artifacts
+**/target/
+*.class
+
+# Node modules & build artifacts
+**/node_modules/
+**/dist/
+**/build/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Scratch and temporary logs
+.system_generated/
